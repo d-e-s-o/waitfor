@@ -13,7 +13,4 @@ description = """
 Retry a function until it succeeds, errors out, or a timeout/deadline is reached.
 """
 
-[badges]
-gitlab = { repository = "d-e-s-o/waitfor", branch = "master" }
-
 [dependencies]
